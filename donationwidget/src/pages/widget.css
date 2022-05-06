@@ -1,0 +1,47 @@
+.widget-page {
+  border: 20px;
+}
+
+.widget-content {
+  margin-bottom: 20px;
+}
+
+.form-control {
+}
+
+.input-send-fields {
+  display: inline-flex;
+  margin-top: 20px;
+}
+
+.content-field {
+  margin-top: 10px;
+  width: 300px;
+  display: inline-grid;
+}
+
+.paragraphStyle {
+  color: cadetblue;
+  text-align: left;
+  margin-left: 60px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.progressBar {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.tooltip {
+  height: 25px;
+  background-color: rgb(213, 237, 240);
+  margin-bottom: 2px;
+  margin-left: 18%;
+  width: 60%;
+  display: inline-block;
+}
+
+.progress-bar-element {
+
+}
